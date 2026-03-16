@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Annabel Large"
   avatar           : "annabel.jpg"
-  bio              : "3rd year PhD candidate in the UC Berkeley - UCSF Joint Bioengineering Graduate Group"
+  bio              : "6th year PhD candidate in the UC Berkeley - UCSF Joint Bioengineering Graduate Group"
   location         : "Stanley Hall, UC Berkeley"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=efMadcMAAAAJ&hl=en&oi=ao"
   email            : "annabel_large@berkeley.edu"
   researchgate     : 
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      :  
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/0009-0003-4122-2259" 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "AnnabelLarge"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

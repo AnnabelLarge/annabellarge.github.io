@@ -3,14 +3,8 @@ main:
   - title: "Main"
     url: /about
   
-  - title: "Education and Experience"
-    url: /education_experience/
+  - title: "Research"
+    url: /research/
 
-  - title: "Papers and Presentations"
-    url: /papers_presentations/    
-
-  - title: "Honors and Awards"
-    url: /honors_awards/ 
-  
-  - title: "For Fun-sies"
-    url: /for_fun
+  - title: "Teaching and Service"
+    url: /teaching_service/ 
