@@ -6,10 +6,10 @@ author_profile: true
 redirect_from: 
 ---
 # Publications
-### Preprints
+## Preprints
 - __Annabel Large*__, Ian Holmes. [Nested birth-death processes are competitive with parameter-heavy neural networks as time-dependent models of protein evolution](https://doi.org/10.64898/2026.02.02.702952), bioRxiv 2026
 
-### Papers
+## Journal Articles
 - Svante Resjö, Jakob Willforss, __Annabel Large*__, Valentina Siino, Erik Alexandersson, Fredrik Levander, Erik Andreasson. [Comparative proteomic analyses of potato leaves from field-grown plants grown under extremely long days](https://doi.org/10.1016/j.plaphy.2024.109032), Plant Physiology and Biochemistry 2024
 
 - Priscilla Olayide, __Annabel Large*__, Linnea Stridh, Ismail Rabbi, Susanne Baldermann, Livia Stavolone, Erik Alexandersson. [Gene Expression and Metabolite Profiling of Thirteen Nigerian Cassava Landraces to Elucidate Starch and Carotenoid Composition](https://doi.org/10.3390/agronomy10030424), Agronomy 2020
