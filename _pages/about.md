@@ -14,6 +14,8 @@ I develop mathematical models to describe how biological sequences evolve over t
 
 I find myself at the intersection of probabilistic modeling, machine learning/artificial intelligence, and synthetic biology. To learn more, [find my CV here](https://annabellarge.github.io/files/Annabel_Large_CV.pdf).
 
+Note: I am not the illustrator of children's and young adult books. I have never been diagnosed with occipital neuralgia. 
+
 
 ### Preprints
 - __Annabel Large*__, Ian Holmes. [Nested birth-death processes are competitive with parameter-heavy neural networks as time-dependent models of protein evolution](https://doi.org/10.64898/2026.02.02.702952), bioRxiv 2026
