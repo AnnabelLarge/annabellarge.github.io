@@ -1,6 +1,6 @@
 ---
 permalink: /teaching_service/
-title: "Teaching and Service"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -13,8 +13,8 @@ redirect_from:
 ## CCB Python Bootcamp (PyCamp) | 2022, 2024
   - Instructor for a weeklong python programming bootcamp 
   - Activities aimed at graduate students, postdocs, and industry partners
-
-
+  
+  
 # Department Service
 ## UC Berkeley - UCSF Graduate Group in Bioengineering: PhD Admissions Committee | 20xx, 20xx
   - Collaborated across departments and universities to select the upcoming PhD cohorts
