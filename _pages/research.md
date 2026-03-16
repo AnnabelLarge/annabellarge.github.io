@@ -14,7 +14,7 @@ redirect_from:
 
 - Priscilla Olayide, __Annabel Large*__, Linnea Stridh, Ismail Rabbi, Susanne Baldermann, Livia Stavolone, Erik Alexandersson. [Gene Expression and Metabolite Profiling of Thirteen Nigerian Cassava Landraces to Elucidate Starch and Carotenoid Composition](https://doi.org/10.3390/agronomy10030424), Agronomy 2020
 
-- Brittni R Kelley, J Christopher Ellis, Annabel Large, Liesel G Schneider, Daniel Jacobson, Jeremiah G Johnson. [Whole-Genome Sequencing and Bioinformatic Analysis of Environmental, Agricultural, and Human Campylobacter jejuni Isolates From East Tennessee](https://doi.org/10.3389/fmicb.2020.571064), Frontiers in Microbiology 2020
+- Brittni R Kelley, J Christopher Ellis, __Annabel Large*__, Liesel G Schneider, Daniel Jacobson, Jeremiah G Johnson. [Whole-Genome Sequencing and Bioinformatic Analysis of Environmental, Agricultural, and Human Campylobacter jejuni Isolates From East Tennessee](https://doi.org/10.3389/fmicb.2020.571064), Frontiers in Microbiology 2020
 
 - Anna Furches, David Kainer, Des Weighill, __Annabel Large*__, Piet Jones, Angelica M Walker, Jonathon Romero, Joao Gabriel Felipe Machado Gazolla, Wayne Joubert, Manesh Shah, Jared Streich, Priya Ranjan, Jeremy Schmutz, Avinash Sreedasyam, David Macaya-Sanz, Nan Zhao, Madhavi Z Martin, Xiaolan Rao, Richard A Dixon, Stephen DiFazio, Timothy J Tschaplinski, Jin-Gui Chen, Gerald A Tuskan, Daniel Jacobson. [Finding New Cell Wall Regulatory Genes in Populus trichocarpa Using Multiple Lines of Evidence](https://doi.org/10.3389/fpls.2019.01249), Frontiers in Plant Science 2019
 
