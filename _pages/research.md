@@ -25,4 +25,4 @@ redirect_from:
   - The Annual Meeting of the Society for Molecular Biology and Evolution,
  Copenhagen, Denmark (2026).
 
-- __Annabel Large*__, Ian Holmes. _"Nested birth-death processes are competitive with parameter-heavy neural networks as time-dependent models of protein evolution"_. legend2024 : Machine Learning for Evolutionary Genomics Data, Heraklion, Greece (2024).
+- __Annabel Large*__, Ian Holmes. _"Fitting Indel Evolution Model Parameters to PFam Protein Alignments with a GPU-accelerated Framework"_. legend2024 : Machine Learning for Evolutionary Genomics Data, Heraklion, Greece (2024).
