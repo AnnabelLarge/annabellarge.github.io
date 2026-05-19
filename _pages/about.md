@@ -18,7 +18,7 @@ Note: I am not the illustrator of children's and young adult books. I have never
 
 
 ### Preprints
-- __Annabel Large*__, Ian Holmes. [Nested birth-death processes are competitive with parameter-heavy neural networks as time-dependent models of protein evolution](https://doi.org/10.64898/2026.02.02.702952), bioRxiv 2026
+- __Annabel Large*__, Ian Holmes. [Nested birth-death processes are competitive with parameter-heavy neural networks as time-dependent models of protein evolution](https://doi.org/10.64898/2026.02.02.702952), bioRxiv 2026 (**accepted** to ICML 2026; revisions in progress)
 
 ### Select Publications
 - Svante Resjö, Jakob Willforss, __Annabel Large*__, Valentina Siino, Erik Alexandersson, Fredrik Levander, Erik Andreasson. [Comparative proteomic analyses of potato leaves from field-grown plants grown under extremely long days](https://doi.org/10.1016/j.plaphy.2024.109032), Plant Physiology and Biochemistry 2024
