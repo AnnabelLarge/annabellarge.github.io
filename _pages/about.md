@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 # Hello friends!
-My name is Annabel Large (国晓瑛), and I'm a 6th year PhD candidate advised by [Ian Holmes](https://ihh.github.io/). 
+My name is Annabel Large (国晓瑛), and I'm a Bioengineering PhD candidate advised by [Ian Holmes](https://ihh.github.io/). 
   
 I develop mathematical models to describe how biological sequences evolve over time. Specifically, I parameterize stochastic processes using techniques from automata theory, mixture modeling, and deep learning. Statistical phylogenetics uses these models to predict what ancestral sequences looked like millions of years ago, or to forecast how a sequence might continue to change in the future. 
 
-I find myself at the intersection of probabilistic modeling, machine learning/artificial intelligence, and synthetic biology. To learn more, [find my CV here](https://annabellarge.github.io/files/Annabel_Large_CV.pdf).
+I find myself at the intersection of probabilistic modeling, machine learning/artificial intelligence, and evolutionary biology. To learn more, [find my CV here](https://annabellarge.github.io/files/Annabel_Large_CV.pdf).
 
 
 ### Preprints
