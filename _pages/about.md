@@ -15,8 +15,10 @@ I develop mathematical models to describe how biological sequences evolve over t
 I find myself at the intersection of probabilistic modeling, machine learning/artificial intelligence, and evolutionary biology. To learn more, [find my CV here](https://annabellarge.github.io/files/Annabel_Large_CV.pdf).
 
 
-### Preprints
-- __Annabel Large*__, Ian Holmes. [Nested birth-death processes are competitive with parameter-heavy neural networks as time-dependent models of protein evolution](https://doi.org/10.64898/2026.02.02.702952), bioRxiv 2026 (**accepted** to ICML 2026; revisions in progress)
+### Conference submissions
+- __Annabel Large*__, Ian H. Holmes. [Nested birth-death processes are competitive with parameter-heavy neural networks as time-dependent models of protein evolution](https://openreview.net/forum?id=qs9lQluekx). ICML 2026, main track.
+- Ian H. Holmes, __Annabel Large*__. Closed-form Baum-Welch for TKF-based evolutionary models (regular paper). Accepted to NeurIPS 2026 workshop: AI for Stochastic Dynamics.
+- Ian H. Holmes, __Annabel Large*__. Variational inference in coupled models of amino acid substitution (regular paper). Accepted to NeurIPS 2026 workshop: AI for Stochastic Dynamics.
 
 ### Select Publications
 - Svante Resjö, Jakob Willforss, __Annabel Large*__, Valentina Siino, Erik Alexandersson, Fredrik Levander, Erik Andreasson. [Comparative proteomic analyses of potato leaves from field-grown plants grown under extremely long days](https://doi.org/10.1016/j.plaphy.2024.109032), Plant Physiology and Biochemistry 2024
