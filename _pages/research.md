@@ -6,9 +6,11 @@ author_profile: true
 redirect_from: 
 ---
 # Publications
-## Preprints
-- __Annabel Large*__, Ian Holmes. [Nested birth-death processes are competitive with parameter-heavy neural networks as time-dependent models of protein evolution](https://doi.org/10.64898/2026.02.02.702952), bioRxiv 2026 (**accepted** to ICML 2026; revisions in progress)
-- __Annabel Large*__, Ian Holmes. [Variational inference in coupled models of amino acid substitution](https://doi.org/10.64898/2026.05.16.725674), bioRxiv 2026
+## Conference submissions
+- __Annabel Large*__, Ian H. Holmes. [Nested birth-death processes are competitive with parameter-heavy neural networks as time-dependent models of protein evolution](https://openreview.net/forum?id=qs9lQluekx). ICML 2026, main track.
+- Ian H. Holmes, __Annabel Large*__. Closed-form Baum-Welch for TKF-based evolutionary models (regular paper). Accepted to NeurIPS 2026 workshop: AI for Stochastic Dynamics.
+- Ian H. Holmes, __Annabel Large*__. [Variational inference in coupled models of amino acid substitution](https://doi.org/10.64898/2026.05.16.725674) (regular paper). Accepted to NeurIPS 2026 workshop: AI for Stochastic Dynamics.
+
 ## Journal Articles
 - Svante Resjö, Jakob Willforss, __Annabel Large*__, Valentina Siino, Erik Alexandersson, Fredrik Levander, Erik Andreasson. [Comparative proteomic analyses of potato leaves from field-grown plants grown under extremely long days](https://doi.org/10.1016/j.plaphy.2024.109032), Plant Physiology and Biochemistry 2024
 
